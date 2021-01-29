@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+
+    ------> LogView ------>
+    <string name="login_email">Email address</string>
+    <string name="login_password">Password</string>
+    <string name="login_confirm_password">Confirm Password</string>
+    <string name="login_sign_in">SIGN IN</string>
+    <string name="login_sign_up">Sign up</string>
+    <string name="login_reset_password">Reset my password</string>
+    <string name="login_sign_in_google">Sign In with Google</string>
+    <string name="login_forgot_password">I have forgotten my password</string>
+    <string name="login_create_account">Create a new account</string>
+    <string name="login_go_login">Go back to Login</string>
+
+    <!--Bottom Navigation Menu -->
+    <string name="navigation_bottom_info">Info</string>
+    <string name="navigation_bottom_rates">Rates</string>
+    <string name="navigation_bottom_chats">Chats</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <string name="chat_edit_text_message_hint">Type here a message...</string>
+    <string name="info_label_messages">Total messages</string>
+    <string name="info_no_name">Name is not available</string>
+
+    <string name="options_menu_log_out">Log out</string>
+
+    <string name="dialog_tittle">Rate the App!</string>
+    <string name="dialog_edit_text_hint">Leave your feedback</string>
+    <string name="dialog_ok">Rate</string>
+    <string name="dialog_cancel">Cancel</string>
+
+</resources>
